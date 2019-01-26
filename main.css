@@ -138,8 +138,8 @@ img.profile-pic {
 	background-color: #F2F2F2;
 }
 
-.bg-color-white {
-	background-color: white;
+.bg-color-black {
+	background-color: black;
 }
 
 .text-name {
@@ -159,7 +159,7 @@ img.profile-pic {
 .text-detail {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
-    color: #575757;
+    color: #660404;
     font-size: 12px;
 }
 
